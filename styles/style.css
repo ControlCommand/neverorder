@@ -1,0 +1,43 @@
+html {
+    font-size: 10px;
+    font-family: "Alumni Sans", sans-serif;
+    background-color: #104D5F;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px; /* top, right, bottom, left*/
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0; /*top and bottom, 0 right and left*/
+    color: #00539f;
+    text-shadow: 3px 3px 1px black; /*horizontal offset, vertical, blur*/
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
